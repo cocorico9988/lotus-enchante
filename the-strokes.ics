@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Personal Surprise//FR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:strokes-20270715-lotus-surprise@personal.local
+DTSTAMP:20261124T230000Z
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270716
+SUMMARY:The Strokes — notre soirée à Off Track
+LOCATION:Hippodrome ParisLongchamp\, Route de Sèvres à Neuilly\, Paris
+DESCRIPTION:Surprise ! The Strokes à Off Track. Horaires à confirmer auprès de l'organisateur. Invitation personnelle — ne vaut pas billet.
+URL:https://offtrack.events/artiste/2819/
+END:VEVENT
+END:VCALENDAR
